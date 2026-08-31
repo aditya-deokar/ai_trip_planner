@@ -58,6 +58,17 @@ This folder contains the project documentation as **plain Markdown** so it rende
 - [`docs/adr/README.md`](adr/README.md)
 - [`docs/adr/0001-architecture-fastapi-streamlit-langgraph.md`](adr/0001-architecture-fastapi-streamlit-langgraph.md)
 
+### Library Upgrades & Modernization
+- [`docs/library-upgrades/upgrade-implementation-plan.md`](library-upgrades/upgrade-implementation-plan.md)
+- [`docs/library-upgrades/new-features-and-project-optimizations.md`](library-upgrades/new-features-and-project-optimizations.md)
+
+### MCP Server Integration
+- [`docs/mcp-server/README.md`](mcp-server/README.md) *(Main MCP Technical Reference)*
+- [`docs/mcp-server/mcp-server-guide.md`](mcp-server/mcp-server-guide.md)
+- [`docs/mcp-server/client-configuration-and-testing.md`](mcp-server/client-configuration-and-testing.md)
+- [`docs/mcp-server/fastmcp-vs-mcp-guide.md`](mcp-server/fastmcp-vs-mcp-guide.md)
+- [`docs/mcp-server/mcp-server-implementation-plan.md`](mcp-server/mcp-server-implementation-plan.md)
+
 ### Assets
 - [`docs/assets/README.md`](assets/README.md)
 

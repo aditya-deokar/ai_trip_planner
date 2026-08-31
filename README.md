@@ -63,8 +63,9 @@ Whether you're dreaming of the Taj Mahal's grandeur or a hidden beach in Goa, th
 | 🌤️ **Weather Intelligence** | Current conditions and multi-day forecast for your destination |
 | 💰 **Expense Breakdown** | Detailed cost analysis with daily budget estimates |
 | 🗺️ **Dual Itinerary Mode** | One plan for mainstream tourism, one for off-beat exploration |
-| 🔀 **Multi-LLM Support** | Switch between Groq (DeepSeek-R1) and Google Gemini 2.5 Pro |
+| 🔀 **Multi-LLM Support** | Switch between Groq (Llama 3.3, DeepSeek-R1) and Google Gemini (2.5 Flash, 3.6 Flash, 2.5 Pro) |
 | 🔄 **Fallback Search** | Tavily web search as intelligent fallback when Google Places API fails |
+| 🔌 **MCP Server Support** | Exposes full travel planner capabilities via Model Context Protocol (`stdio` & `SSE`) for Claude Desktop, Cursor, and Antigravity |
 
 ---
 

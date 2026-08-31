@@ -8,6 +8,7 @@ AI Trip Planner is an **agentic travel planning app** built with **Streamlit** (
 - **Configure keys**: [`getting-started/configuration.md`](getting-started/configuration.md)
 - **Run locally**: [`getting-started/running-locally.md`](getting-started/running-locally.md)
 - **Use API**: [`user-guide/using-the-api.md`](user-guide/using-the-api.md)
+- **MCP Server**: [`mcp-server/README.md`](mcp-server/README.md)
 - **How it works**: [`architecture/system-overview.md`](architecture/system-overview.md)
 - **Contribute**: [`development/contributing.md`](development/contributing.md)
 
