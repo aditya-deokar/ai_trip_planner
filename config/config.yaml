@@ -1,8 +1,15 @@
 llm:
   groq:
     provider: "groq"
-    model_name: "deepseek-r1-distill-llama-70b"
+    model_name: "llama-3.3-70b-versatile"
+    available_models:
+      - "llama-3.3-70b-versatile"
+      - "deepseek-r1-distill-llama-70b"
 
   google:
     provider: "google"
-    model_name: "gemini-2.5-pro"
+    model_name: "gemini-2.5-flash"
+    available_models:
+      - "gemini-2.5-flash"
+      - "gemini-3.6-flash"
+      - "gemini-2.5-pro"
